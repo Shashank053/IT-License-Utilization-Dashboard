@@ -30,4 +30,4 @@ opportunities and renewal risk.
 | dashboard/ | Tableau screenshots |
 
 ## Dashboard Preview
-![Dashboard]("C:\Users\ADMIN\Downloads\IT UTILIZATION DASHBOARD .png")
+![Dashboard]("IT UTILIZATION DASHBOARD .png")
