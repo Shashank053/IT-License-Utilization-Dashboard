@@ -1,4 +1,4 @@
-# IT-License-Utilization-Dashboard
+# IT License Utilization & Cost Optimization Dashboard
 
 ## Project Summary
 End-to-end IT asset management analysis tracking 500+ software 
@@ -7,6 +7,9 @@ opportunities and renewal risk.
 
 ## Live Dashboard
 [View on Tableau Public](paste your tableau public link here)
+
+## Dashboard Preview
+![IT License Utilization Dashboard](dashboard.png)
 
 ## Tools Used
 - SQL (SQLite / DB Browser)
@@ -28,6 +31,3 @@ opportunities and renewal risk.
 | sql/ | 4 SQL queries for extraction |
 | excel/ | Sensitivity analysis model |
 | dashboard/ | Tableau screenshots |
-
-## Dashboard Preview
-![Dashboard](IT UTILIZATION DASHBOARD.png)
